@@ -1,1 +1,5 @@
-console.log("salut")
+
+import { readFileSync, existsSync } from "fs"
+import { join } from "path"
+import { homedir } from "os"
+console.log(homedir());
