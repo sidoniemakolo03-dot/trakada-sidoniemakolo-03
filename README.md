@@ -68,4 +68,4 @@ trackada/
 
 ## Auteur
 
-Ton prénom / ton pseudo GitHub
+Sidonie /sidoniemakolo03-dot
